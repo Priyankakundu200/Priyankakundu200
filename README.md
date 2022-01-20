@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Priyankakundu200
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning kali linux
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me priyankakundu03022000@gmail.com
 
 <!---
